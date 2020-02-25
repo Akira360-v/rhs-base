@@ -1,10 +1,33 @@
-<!-- start project windows -->
+## start project windows (yarn)
 
 npm i yarn -g
 
 yarn install
 
 yarn start
+
+## start project macOS (npm) default
+
+npm install
+npm start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
